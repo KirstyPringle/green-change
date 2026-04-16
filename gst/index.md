@@ -77,11 +77,12 @@ for consideration by the promotion committee.
 
 ## Sabina's Goals and Strategy
 
--    Sabina has both a group and an institutional goal:
+Sabina has both a group and an institutional goal:
+
 -    Research Group: build a culture of green practice within her group. A “bottom up” approach fitting the Emergent - Individuals quadrant of Borrego and Henderson's classification.
 -    Institution: achieve departmental support for completing green initiatives (e.g. Green Lab or Green DiSC certification). A “top down” approach fitting the Prescribed - Environments & Structures quadrant.
     
--    She doesn't believe there is support for making any practices mandatory, so her strategy is to build experience and enthusiasm from the ground up within her group, and use that as evidence to push for formal recognition at departmental level.
-    
- -   Her next step is to pick tactics
+  She doesn't believe there is support for making any practices mandatory, so her strategy is to build experience and enthusiasm from the ground up within her group, and use that as evidence to push for formal recognition at departmental level.
+  
+  Her next step is to pick tactics
 

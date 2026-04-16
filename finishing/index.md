@@ -109,13 +109,19 @@ after most of the organization moved to a new way.
 
 ## Sabina Wraps Up
 
--   Hackathons are now a two-day mandatory event at the end of every quarter
-    -   Sabina vets projects in advance of each hackathon
-    -   All projects must be open source so that externals can take part
-    -   All data must be open as well (same reasoning)
-    -   Annual performance review form asks staff about their contributions
--   Sabina organizes quarterly training sessions to prepare people for these hackathons
-    -   Director of IT (or one of his staff) covers software skills
-    -   Sabina and VP of Human Resources talk about collaboration skills (including DEI)
--   Now justified as a way to collaborate with scientific researchers
-    and find grad students the company might want to recruit
+## Sabina Wraps Up
+
+- The monthly Green Lab meeting is now a useful forum for sharing knowledge and ideas
+- Sabina coordinates a rolling action list of sustainability improvements (e.g. waste reduction, energy use, sustainable procurement)
+- All actions are documented and contribute to the group's Green Lab / Green DiSC certification application
+- Staff are signposted to available sustainability training and given the time to complete it
+- The annual performance review form now asks staff about their contributions to sustainability initiatives
+- Sabina organises termly training sessions to build skills and maintain momentum:
+  - A lab technician covers practical lab sustainability (waste, chemicals, energy)
+  - Someone from the central sustainability team covers the university's carbon reduction targets and how the group fits in
+  - Sabina and the Departmental Administrator cover the business case for sustainability including cost savings, funding opportunities, and reputational benefits
+- The initiative is now justified to the Head of Department not as "green stuff" but as a way to:
+  - reduce costs
+  - meet upcoming funder requirements on sustainability
+  - strengthen grant applications
+- Sabina’s group have been awarded Bronze Green DiSC certification, with other groups in her department now also working on applications

@@ -1,25 +1,23 @@
 # Organizational Change
 
-This workshop is a short introduction to organizational change
-for people with backgrounds in research.
+This workshop is a short introduction to organizational change with the aim of empowering people to drive environmentally sustainable change in thier workplace.
+It is for people with backgrounds in research.
 All of the material is available under an [open license](@/license/),
 and contributions through our [repository][repo] are welcome.
 All contributors are required to respect our [Code of Conduct](@/conduct/).
 
 ## Learner Persona
 
--   Sabina, 28, has a master's degree in animal physiology
-    and now works as a data analyst for a mid-sized pharmaceutical company.
--   She takes open access publishing and open source software for granted,
-    but has never been involved in politics or advocacy beyond signing a few online petitions.
--   Sabina's company doesn't have a policy on staff contributing to open source projects,
-    and the head of her department occasionally grumbles about
-    "all this diversity stuff" distracting people from "real work".
-    She wants unambiguous permission for the former and official company support for the latter.
--   Sabina doesn't mind public speaking,
-    but finds face-to-face conflict very stressful.
+-    Sabina, 28, has a master's degree in ecology and now works as a data analyst in a large biology research group at a mid-sized university.
+-    In her personal life she is enthusiastic about the environment but she has never been involved in politics or advocacy beyond signing a few online petitions.
+-    Sabina's group leader is mostly sympathetic to the idea of environmental sustainability, but will not give staff time to upskill or work on this. 
+-    Sabina’s department doesn't have a policy on sustainability and the head of her department occasionally grumbles about "all this green stuff" distracting people from "real work". 
+-    In her group she wants to build a culture of green practice where sustainability is recognised as a valued part of researchers' work.
+-    She also wants departmental support for green initiatives (e.g. Green Lab / Green DiSC certification). 
+-    Sabina doesn't mind public speaking, but finds face-to-face conflict very stressful.
 
-This workshop teaches Sabina the basics of organizational change,
+
+This workshop teaches Sabina the basics of organizational change, 
 while the exercises help her figure out what changes she wants
 and how to achieve them.
 
@@ -59,6 +57,8 @@ and how to achieve them.
 </div>
 
 ## Acknowledgments {: #acknowledgments}
+
+-  This course is adapted from Greg Wilson's course on Organisational Change https://github.com/gvwilson/change.  Many thanks to Greg for the origional content and for help and advice in writting this environmental sustainability version. 
 
 -   *[Toby Hodges][hodges-toby]* is a bioinformatician turned community coordinator based in Heidelberg, Germany.
     He is currently Director of Curriculum at [The Carpentries][carpentries].

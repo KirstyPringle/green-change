@@ -109,8 +109,6 @@ after most of the organization moved to a new way.
 
 ## Sabina Wraps Up
 
-## Sabina Wraps Up
-
 - The monthly Green Lab meeting is now a useful forum for sharing knowledge and ideas
 - Sabina coordinates a rolling action list of sustainability improvements (e.g. waste reduction, energy use, sustainable procurement)
 - All actions are documented and contribute to the group's Green Lab / Green DiSC certification application

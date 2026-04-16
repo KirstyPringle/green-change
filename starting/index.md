@@ -144,7 +144,7 @@ Her opening tactics are:
 -    Approach the Departmental Administrator with a cost-saving framing - reduced consumables waste and energy use - to get quiet backing before approaching the Head of Department.
 -    Establish a monthly Green Lab meeting open to the whole group, where contributions are noted in support of eventual environmental certification.
 -    Organise a short voluntary onboarding session for interested staff:
- -    "Here's what Green Lab / Green DiSC certification involves" (run by Sabina)
- -    "Here's how we can reduce waste and energy use in the lab" (run by a lab technician)
- -    "Here's how this connects to the university's wider carbon reduction programme" (run by someone from the central sustainability team)
+    -    "Here's what Green Lab / Green DiSC certification involves" (run by Sabina)
+    -    "Here's how we can reduce waste and energy use in the lab" (run by a lab technician)
+    -    "Here's how this connects to the university's wider carbon reduction programme" (run by someone from the central sustainability team)
 

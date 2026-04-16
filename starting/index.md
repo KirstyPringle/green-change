@@ -137,20 +137,14 @@ which can also be a way to make someone an ally.
 
 ## Sabina's Starting Point
 
--   Sabina knows the other data analysts well, so will recruit some of them first
-    -   "Some of them" because the libertarian won't be useful
-        and she needs a plausible way to leave him out for now
--   She gets along well with the Director of IT,
-    who will generally support anything that improves the quality of scientists' code
-    -   He doesn't care as strongly about DEI as Sabina, but is generally supportive
--   Collect and share anecdotes to show that contributing to open source software projects
-    can be a way for junior staff to improve their skills
--   Use this to institute Friday afternoon hackathons
-    -   Participation isn't mandatory,
-        but is tracked and taken into consideration in performance reviews
--   Organize orientation and training for junior staff on how to contribute
-    -   "Here's how to use GitHub" (run by the Director of IT)
-    -   "Here's a refresher on intellectual property"
-        (run by one of the Chief Counsel's underlings)
-    -   "Here's the [Code of Conduct](@/conduct/) that most open source projects use"
-        (which starts discussion of DEI issues)
+Sabina's strategy is to build enthusiasm from the ground up within her group, and use that as evidence to push for policy change at departmental level. 
+Her opening tactics are:
+-    Recruit sympathetic postdocs and data analysts as allies, finding a plausible way to leave the sceptical senior postdoc out for now.
+-    Engage the lab technicians early - they deal with waste, energy, and procurement daily and are likely to have both practical ideas and genuine enthusiasm.
+-    Approach the Departmental Administrator with a cost-saving framing - reduced consumables waste and energy use - to get quiet backing before approaching the Head of Department.
+-    Establish a monthly Green Lab meeting open to the whole group, where contributions are noted in support of eventual environmental certification.
+-    Organise a short voluntary onboarding session for interested staff:
+--    "Here's what Green Lab / Green DiSC certification involves" (run by Sabina)
+--    "Here's how we can reduce waste and energy use in the lab" (run by a lab technician)
+--    "Here's how this connects to the university's wider carbon reduction programme" (run by someone from the central sustainability team)
+

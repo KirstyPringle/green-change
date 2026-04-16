@@ -70,17 +70,10 @@ we owe it to those who fought to make our lives better to do the same.
 
 ## Sabina's Power Map
 
--   The *VP of Human Resources* is generally supportive of DEI initiatives
-    but doesn't really understand open source and open science.
--   The *VP of Research* thinks that
-    "all this diversity stuff" distracts people from "real work."
--   The *Chief Counsel* worries about intellectual property loss
-    and the risk of violating data privacy regulations.
--   The *Director of IT* contributes to open source projects in their spare time,
-    but feels depressed whenever they think about the quality of most scientists' code.
--   The other two *senior data analysts* are both supporters of the [FAIR Principles][fair],
-    and believe that data analysis isn't valued as highly by the company as it should be.
--   The *junior data analysts* on their teams are mostly concerned about
-    meeting performance targets and polishing their CVs…
--   …except for the one *self-professed libertarian* who believes that
-    white men are now victims of discrimination.
+ -   The Head of Department thinks that "all this green stuff" distracts people from "real work" and is unlikely to support any formal commitments unless the benefit for the department is very clear.
+ -   The Group Leader is sympathetic in principle but believes that grant deadlines and publication targets have to come first.
+ -   The Departmental Administrator controls the budget for equipment and consumables, and is quietly interested in sustainability if it can be framed as cost-saving.
+ -   The University Central Sustainability Team are very supportive, but are time poor and have little visibility into individual research groups.
+ -   The other postdocs and data analysts are broadly sympathetic but sceptical that anything will change, and are mostly focused on their next career move.
+ -   The lab technicians deal with the day-to-day reality of waste, energy use, and procurement, and are the most likely to have strong practical opinions.
+    …except for one senior postdoc who thinks sustainability concerns are overblown and resents anything that adds to their workload.
